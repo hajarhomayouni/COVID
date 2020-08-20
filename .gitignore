@@ -1,0 +1,4 @@
+*.csv
+results/
+experiment1/results/
+experiment2/results/
